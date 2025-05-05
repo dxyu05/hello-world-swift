@@ -37,6 +37,12 @@ My favorite apps and some of my favorite features:
    - r/place is a really cool thing that they do every so often I think during April Fools? Every user gets to place tile every 5 minutes and the result of the challenge has been cool every time
    - I like how you can add reddit bots.. like in some subreddits theyy have a bot to post sporting event scores
 
+ App I would like to build:
+
+ I think I would like to build a social media app, one that allows for posting and direct messaging. A distinguishing factor would be that the main goal of the app would be to have shared goals
+ with your friends and maybe have a streak feature where you can have streaks with your friends by completing one daily goal or something along those lines. I am pretty intersted in the
+ behind the scenes of social media apps, particularly recommendation algorithms and things having to do with friends lists/adding friends. 
+
 ## Notes
 
 I had a little bit of trouble figuring out how Xcode works but otherwise it was smooth sailing. I like how you can just drag UI elements instead of styling using a language like CSS.
